@@ -1,0 +1,15 @@
+#btn{
+    color: #fff;
+    background: #067c0c;
+    position: relative;
+    padding: 5px 10px;
+    border-radius: 2px;
+    transition: ease-out .3s;
+}
+#btn:hover{
+    background: #123811;
+    color: #fff;
+}
+#button-section{
+    padding: 100px 0;
+}
